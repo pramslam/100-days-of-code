@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [David Lo]
 
-The log of my #100DaysOfCode challenge. Started on [January 22, Monday, 2019].
+The log of my #100DaysOfCode challenge. Started on [January 22, Tuesday, 2019].
 
 ## Log
 
