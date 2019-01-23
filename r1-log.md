@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [January 22, Tuesday, 2019].
 Started a Udemy Course called Complete Python Bootcamp. I setup the environment.
 
 ### R1D2
+Today I learned about Variable Assignments, Strings, String Indexing and Slicing, String Properties and Methods
