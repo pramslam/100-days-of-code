@@ -9,3 +9,6 @@ Started a Udemy Course called Complete Python Bootcamp. I setup the environment.
 
 ### R1D2
 Today I learned about Variable Assignments, Strings, String Indexing and Slicing, String Properties and Methods
+
+### R1D3
+Python: Print formatting, lists, and dictionaries
