@@ -12,3 +12,6 @@ Today I learned about Variable Assignments, Strings, String Indexing and Slicing
 
 ### R1D3
 Python: Print formatting, lists, and dictionaries
+
+### R1D4
+Python: Tuples, Sets, Booleans, File I/O
