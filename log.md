@@ -40,6 +40,7 @@ Today, I started my entry to Global Game Jam. In our entry, you play as an inter
 
 ### Day 7: January 28, 2019 Monday
 
-**Today's Progress**: Back to Python!
+**Today's Progress**: Back to Python! Installed CV2 with Python 3.7 on Mac
 
 **Thoughts** 
+I setup CV2 with Python 3.7 on mac.
