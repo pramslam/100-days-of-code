@@ -24,3 +24,4 @@ Global Game Jam Day 2, the Game Manager
 Global Gam Jam Day 3, Finishing up and cleaning up.
 
 ### R1D7:
+Setup CV2 with Python 3.7 on MacOS
