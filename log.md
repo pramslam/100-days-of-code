@@ -20,6 +20,26 @@
 
 ### Day 4: January 25, 2019 Friday
 
-**Today's Progress**: Python: Tuples, Sets, Booleans, File I/O
+**Today's Progress**: Python: Tuples, Sets, Booleans, File I/O. Global Game Day 1
 
 **Thoughts** I leanred about how tuples are immutable, which is good when you need data to stay the same. I also learned about Sets, and Booleans. Lastly I went over File I/O. You have to remember to close the file, and what mode you want to use when reading or writing.
+
+Today, I started my entry to Global Game Jam. In our entry, you play as an interior designer with eccentric clients that have particular tastes. The clients ranged were fantasy characters like dragons, trolls, and princesses. We did the initial coding of the menus and how they would interact.
+
+### Day 5: January 26, 2019 Saturday
+
+**Today's Progress**: Global Game Jam Day 2, the Game Manager
+
+**Thoughts** I created a whole game manager that handled button clicking, stepping through the game, and processing of actions. We started getting feature creep in, and toward the end of the day, I almost scrapped everything we had to accommodate the newer features that we wanted.
+
+### Day 6: January 27, 2019 Sunday
+
+**Today's Progress**: Global Gam Jam Day 3, Finishing up and cleaning up.
+
+**Thoughts** Kat saved my ass and created an amazing playerInfo class that could store all the information we needed with the new features. With this player class we were back on track to implement the newest features such as specific traits each of the clients would have and how each item would be rolled with traits that the clients would like or hate. We submitted our game and code on time as well. Overall this game jame was hectic, but I learned a lot and would definitely do it again.
+
+### Day 7: January 28, 2019 Monday
+
+**Today's Progress**: Back to Python!
+
+**Thoughts** 
