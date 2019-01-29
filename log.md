@@ -44,3 +44,10 @@ Today, I started my entry to Global Game Jam. In our entry, you play as an inter
 
 **Thoughts** 
 I setup CV2 with Python 3.7 on mac.
+
+### Day 8: January 29, 2019 Tuesday
+
+**Today's Progress**: PortAudio and Pyaudio with Python 3.7 on Mac
+
+**Thoughts** 
+Setting up a dev environment on mac is much more unclear about how and where things are installing. It's confusing, should I be using sudo, brew, pip, pip3, conda? What is the best practice way? If I have already installed stuff, how do I uninstall and do it right?
