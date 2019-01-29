@@ -25,3 +25,6 @@ Global Gam Jam Day 3, Finishing up and cleaning up.
 
 ### R1D7:
 Setup CV2 with Python 3.7 on MacOS
+
+### R1D8:
+PortAudio and Pyaudio with Python 3.7 on Mac
