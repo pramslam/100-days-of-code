@@ -28,3 +28,6 @@ Setup CV2 with Python 3.7 on MacOS
 
 ### R1D8:
 PortAudio and Pyaudio with Python 3.7 on Mac
+
+### R1D9
+Uninstalled Brew, Installed Anaconda-Navigator, CV2
