@@ -51,3 +51,10 @@ I setup CV2 with Python 3.7 on mac.
 
 **Thoughts** 
 Setting up a dev environment on mac is much more unclear about how and where things are installing. It's confusing, should I be using sudo, brew, pip, pip3, conda? What is the best practice way? If I have already installed stuff, how do I uninstall and do it right?
+
+### Day 9: January 30, 2019 Wednesday
+
+**Today's Progress**: Installed Anaconda-Navigator, CV2
+
+**Thoughts** 
+Anaconda Navigator is much less confusing that using the terminal with brew and pip. Doing it this way makes it much easier to handle modules and packages because they are always installed in the correct folders. I am still having trouble getting CV2 to record higher than 5FPS and at different resolutions.
