@@ -58,3 +58,10 @@ Setting up a dev environment on mac is much more unclear about how and where thi
 
 **Thoughts** 
 Anaconda Navigator is much less confusing that using the terminal with brew and pip. Doing it this way makes it much easier to handle modules and packages because they are always installed in the correct folders. I am still having trouble getting CV2 to record higher than 5FPS and at different resolutions.
+
+### Day 10: January 31, 2019 Thursday
+
+**Today's Progress**: openCV
+
+**Thoughts** 
+I am learning the ins and outs with openCV. I have been able to record 10 second clips but only at 6FPS. The system already uses multi-threading, so I'm not sure how to increase FPS. Possibly add more threading cores, but I'm not sure how to split the frames to be processed and how to put the frames back together.
