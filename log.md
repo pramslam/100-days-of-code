@@ -65,3 +65,38 @@ Anaconda Navigator is much less confusing that using the terminal with brew and 
 
 **Thoughts** 
 I am learning the ins and outs with openCV. I have been able to record 10 second clips but only at 6FPS. The system already uses multi-threading, so I'm not sure how to increase FPS. Possibly add more threading cores, but I'm not sure how to split the frames to be processed and how to put the frames back together.
+
+### Day 11: February 1, 2019 Friday
+
+**Today's Progress**: openCV
+
+**Thoughts** 
+More work trying to figure out OpenCV
+
+### Day 12: February 2, 2019 Saturday
+
+**Today's Progress**: openCV 30 fps
+
+**Thoughts**
+Got openCV to run multi-threaded and got above 30FPS
+
+### Day 13: February 3, 2019 Sunday
+
+**Today's Progress**: Intro to GameDev
+
+**Thoughts** 
+Helped kids in Intro to Game Dev Class with Brian and Greg
+
+### Day 14: February 4, 2019 Monday
+
+**Today's Progress**: openCV, Missing 'Shape'
+
+**Thoughts** 
+Learning about how to fix this problematic read error.
+
+### Day 15: February 5, 2019 Tuesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
