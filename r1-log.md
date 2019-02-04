@@ -34,3 +34,19 @@ Uninstalled Brew, Installed Anaconda-Navigator, CV2
 
 ### R1D10
 OpenCV
+
+### R1D11
+OpenCV
+
+### R1D12
+OpenCV 30fps
+
+### R1D13
+Intro to Game Dev
+
+### R1D14
+openCV, Missing 'Shape'
+
+### R1D15
+
+### R1D16
