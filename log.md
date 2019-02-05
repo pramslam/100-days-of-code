@@ -96,7 +96,7 @@ Learning about how to fix this problematic read error.
 
 ### Day 15: February 5, 2019 Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: openCV, Video Recording, Video Playback
 
 **Thoughts** 
-
+I got video recording to work and video playback to work on separate scripts. I would like them to open full screen but I'm not sure how to do it yet. I also need to figure out how to call these scripts from a master script that is running all the time? I'm not sure.
