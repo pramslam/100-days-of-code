@@ -48,5 +48,6 @@ Intro to Game Dev
 openCV, Missing 'Shape'
 
 ### R1D15
+openCV, Video Recording, Video Playback
 
 ### R1D16
