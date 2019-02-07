@@ -51,3 +51,17 @@ openCV, Missing 'Shape'
 openCV, Video Recording, Video Playback
 
 ### R1D16
+Unity, Three Times the Charm Event
+
+### R1D17
+Unity, Three Times the Charm Event
+
+### R1D18
+
+### R1D19
+
+### R1D20
+
+### R1D21
+
+### R1D22
