@@ -100,3 +100,56 @@ Learning about how to fix this problematic read error.
 
 **Thoughts** 
 I got video recording to work and video playback to work on separate scripts. I would like them to open full screen but I'm not sure how to do it yet. I also need to figure out how to call these scripts from a master script that is running all the time? I'm not sure.
+
+### Day 16: February 6, 2019 Wednesday
+
+**Today's Progress**: Three times the charm, event system
+
+**Thoughts** 
+Getting the menus in has been a nice change of pace from python.
+
+### Day 17: February 7, 2019 Thursday
+
+**Today's Progress**: Three times the charm event system
+
+**Thoughts** 
+
+
+### Day 18: February 8, 2019 Friday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+### Day 19: February 9, 2019 Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 20: February 10, 2019 Sunday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
+### Day 21: February 11, 2019 Monday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+### Day 22: February 12, 2019 Tuesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+
