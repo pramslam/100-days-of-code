@@ -57,6 +57,7 @@ Unity, Three Times the Charm Event
 Unity, Three Times the Charm Event
 
 ### R1D18
+openCV, Troubleshoot recording issues
 
 ### R1D19
 
