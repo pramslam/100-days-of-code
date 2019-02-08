@@ -117,10 +117,10 @@ Getting the menus in has been a nice change of pace from python.
 
 ### Day 18: February 8, 2019 Friday
 
-**Today's Progress**: 
+**Today's Progress**: openCV, troubleshooting issues
 
-**Thoughts** 
-
+**Thoughts**
+OpenCV does not allow maximizing the stream session. You must record the stream at a set resolution. A physical workaround I am thinking of, is opening up the video in the center of the screen and we can size the physical hole for the display around that size. We can always scale a bit up or down to get higher resolutions or better performance.
 
 ### Day 19: February 9, 2019 Saturday
 
